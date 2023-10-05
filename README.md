@@ -1,1 +1,9 @@
-# Python-Basit-Mini-Oyunlar
+- 👋 Merhaba, ben Mavi!
+- 👀 Yapay Zeka, Wepsite Tasarım ve Oyun Tasarım gibi alanlarla ilgileniyorum.
+- 🖥️ Birçok "Popüler" olan Yazılım dilini bilmekteyim. (python, java, html&css, c++, c#) 
+- 💼 Sponsorluk&İşbirliği için iletişime geçiniz.
+  
+- 🛠️ Maviland Geliştirici Ekibi
+- 📫 İletişim: mavioyunn16@gmail.com
+- 📫 Ekip İletişim: mavistudio16@gmail.com
+
